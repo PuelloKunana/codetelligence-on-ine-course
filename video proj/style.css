@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+video {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    filter: brightness(0.2);
+  }
+  m
+.video-wrapper {
+    position: relative;
+    width: 400px;
+    height: 200px;
+    overflow: hidden;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .navbar-brand{
+    position: relative;
+    left: -10px;
+  }
+
+  #navbarNavDropdown{
+    position: relative;
+    left: 310px;
+  }
+
+  #btn {
+    position: relative;
+    left: 1150px;
+    color: white;
+    font-weight: 700;
+    border-radius: white;
+    transition: 2s;
+  }
+
+  .link{
+    color: white;
+  }
+
+  .button:hover{
+    color: gray; 
+
+  }
+
+  .photo{
+    position: relative;
+    width: 900px;
+    height: 80vh;
+    left: 800px;
+    top: 35px;
+    filter: brightness(0.5);
+  }
+
+  h1{
+    color: rgb(255, 255, 255);
+    position: relative;
+    left: 108px;
+    bottom: 500px;
+  }
+
+  p{
+    color: rgba(255, 255, 255, 0.863);
+    position: relative;
+    left: 108px;
+    bottom: 486px;
+  }
+
+  .yho{
+    position: relative;
+    left: 108px;
+    bottom: 475px;
+    width: 120px;
+    background-color: rgba(92, 230, 230, 1);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+  }
+
+  .moj{
+    position: relative;
+    width: 110px;
+  }
